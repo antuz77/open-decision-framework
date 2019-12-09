@@ -27,5 +27,14 @@ terms across the entire project.
 * **Open decision framework**: schema per una decisione aperta, tranne nella sezione "Storia"
 * **Open source principles**: "principi Open Source" (not "principi _dell'_ Open Source", per esempio)
 * **Stakeholders**: "parti interessate"
+* **Buy-in**: "adozione" / "approvazione" (depending on context)
+* **“What good looks like” in decision-making**: le “buone pratiche” nel processo decisionale
+
+**Phases** = opt for nominalization when translating titles
+	1. Concettualizzazione, Definizione, Ideazione
+	2. Pianificazione, Ricerca
+	3. Concezione, Sviluppo, Verifica
+	4. Lancio, Attivazione, Conclusioni
+	
 
 <!-- **Term**: How you translated the term and explanation of why, if needed -->
